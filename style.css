@@ -138,3 +138,8 @@ ul {
     left: 40%;
     display:block;
   }
+  .feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: .75rem;
+  }
